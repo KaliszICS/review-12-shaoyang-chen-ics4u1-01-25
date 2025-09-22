@@ -53,7 +53,7 @@ class Notes {
 
 		String phrase = "Hello There Young Fellow";
 
-		String[] phraseArr = phrase.split(" "); //each element is an inividual word
+		// String[] phraseArr = phrase.split(" "); //each element is an inividual word
 		// String[] phraseArr = phrase.split("l"); //removes all l's and create elements of characters between them
 		// String[] phraseArr = phrase.split(""); //Every character
 
